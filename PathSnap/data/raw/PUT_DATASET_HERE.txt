@@ -1,6 +1,0 @@
-Extract the original Student folder.zip into this directory so that this path exists:
-
-  data/raw/Student folder/train/
-  data/raw/Student folder/student_test/
-
-Do not change the trip folder names or reorder .nodes/.arcs rows.

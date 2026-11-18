@@ -1,0 +1,199 @@
+{
+  "fit_trips": [
+    "00000004",
+    "00000006",
+    "00000010",
+    "00000011",
+    "00000012",
+    "00000013",
+    "00000016",
+    "00000018",
+    "00000019",
+    "00000021",
+    "00000024",
+    "00000025",
+    "00000026",
+    "00000027",
+    "00000031",
+    "00000032",
+    "00000034",
+    "00000036",
+    "00000038",
+    "00000039",
+    "00000042",
+    "00000043",
+    "00000044",
+    "00000046",
+    "00000047",
+    "00000048",
+    "00000050",
+    "00000051",
+    "00000053",
+    "00000054",
+    "00000055",
+    "00000057",
+    "00000058",
+    "00000061",
+    "00000062",
+    "00000063",
+    "00000068",
+    "00000070",
+    "00000071",
+    "00000072",
+    "00000074",
+    "00000075",
+    "00000078",
+    "00000080",
+    "00000082",
+    "00000084",
+    "00000085",
+    "00000086",
+    "00000088",
+    "00000095",
+    "00000096",
+    "00000098",
+    "00000099"
+  ],
+  "validation_trips": [
+    "00000001",
+    "00000002",
+    "00000003",
+    "00000005",
+    "00000008",
+    "00000014",
+    "00000020",
+    "00000022",
+    "00000028",
+    "00000029",
+    "00000033",
+    "00000035",
+    "00000037",
+    "00000041",
+    "00000045",
+    "00000060",
+    "00000064",
+    "00000066",
+    "00000069",
+    "00000079",
+    "00000081",
+    "00000083",
+    "00000089",
+    "00000090",
+    "00000092",
+    "00000093",
+    "00000097"
+  ],
+  "baseline": {
+    "settings": {
+      "beta_m": 15.0,
+      "reverse_tolerance_m": 0.0,
+      "emission_weight": 1.0
+    },
+    "top1_accuracy": 0.6741193225690214,
+    "macro_f1": 0.7002903939038954,
+    "direct_continuity": 0.9615873342949378
+  },
+  "chosen": {
+    "settings": {
+      "beta_m": 15.0,
+      "reverse_tolerance_m": 25.0,
+      "emission_weight": 1.0
+    },
+    "top1_accuracy": 0.827913999897047,
+    "macro_f1": 0.8288965387276802,
+    "direct_continuity": 0.9721478123497493
+  },
+  "trials": [
+    {
+      "settings": {
+        "beta_m": 15.0,
+        "reverse_tolerance_m": 0.0,
+        "emission_weight": 1.0
+      },
+      "top1_accuracy": 0.6741193225690214,
+      "macro_f1": 0.7002903939038954,
+      "direct_continuity": 0.9615873342949378
+    },
+    {
+      "settings": {
+        "beta_m": 15.0,
+        "reverse_tolerance_m": 0.0,
+        "emission_weight": 2.0
+      },
+      "top1_accuracy": 0.6854784742360027,
+      "macro_f1": 0.6965538723337102,
+      "direct_continuity": 0.9536197541039907
+    },
+    {
+      "settings": {
+        "beta_m": 15.0,
+        "reverse_tolerance_m": 0.0,
+        "emission_weight": 4.0
+      },
+      "top1_accuracy": 0.6887901302355909,
+      "macro_f1": 0.6873010641873629,
+      "direct_continuity": 0.9432653341575657
+    },
+    {
+      "settings": {
+        "beta_m": 15.0,
+        "reverse_tolerance_m": 10.0,
+        "emission_weight": 1.0
+      },
+      "top1_accuracy": 0.7983664784913949,
+      "macro_f1": 0.8105364778051389,
+      "direct_continuity": 0.9703448039013669
+    },
+    {
+      "settings": {
+        "beta_m": 15.0,
+        "reverse_tolerance_m": 10.0,
+        "emission_weight": 2.0
+      },
+      "top1_accuracy": 0.7895811527308293,
+      "macro_f1": 0.7927729726287417,
+      "direct_continuity": 0.9651761796826706
+    },
+    {
+      "settings": {
+        "beta_m": 15.0,
+        "reverse_tolerance_m": 10.0,
+        "emission_weight": 4.0
+      },
+      "top1_accuracy": 0.7786166543694985,
+      "macro_f1": 0.7697140099848299,
+      "direct_continuity": 0.9569338553472079
+    },
+    {
+      "settings": {
+        "beta_m": 15.0,
+        "reverse_tolerance_m": 25.0,
+        "emission_weight": 1.0
+      },
+      "top1_accuracy": 0.827913999897047,
+      "macro_f1": 0.8288965387276802,
+      "direct_continuity": 0.9721478123497493
+    },
+    {
+      "settings": {
+        "beta_m": 15.0,
+        "reverse_tolerance_m": 25.0,
+        "emission_weight": 2.0
+      },
+      "top1_accuracy": 0.8140153400024023,
+      "macro_f1": 0.8104840186881132,
+      "direct_continuity": 0.9671852462394395
+    },
+    {
+      "settings": {
+        "beta_m": 15.0,
+        "reverse_tolerance_m": 25.0,
+        "emission_weight": 4.0
+      },
+      "top1_accuracy": 0.8003397450196469,
+      "macro_f1": 0.7848530210369745,
+      "direct_continuity": 0.9593550381207501
+    }
+  ],
+  "selection": "Maximise point Top-1 with trip Macro F1 within 0.005 and continuity within 0.015 of the existing decoder, on training validation."
+}

@@ -1,0 +1,47 @@
+{
+  "/health": {
+    "status": "ready",
+    "model": "random_forest",
+    "trip_directory_exists": true,
+    "mode": "development"
+  },
+  "/trips": {
+    "trips": [
+      "00000000",
+      "00000007",
+      "00000009",
+      "00000040",
+      "00000052",
+      "00000056",
+      "00000065",
+      "00000076",
+      "00000077",
+      "00000091"
+    ]
+  },
+  "prediction": {
+    "trip_id": "00000009",
+    "restart_observations": [
+      0,
+      19
+    ],
+    "timing_seconds": 0.2844205830479041,
+    "model": "random_forest",
+    "metrics": {
+      "top1_accuracy": 0.8531935176358436,
+      "macro_f1": 0.7548568526877353,
+      "candidate_miss_rate": 0.019065776930409915,
+      "usable_observations": 1049,
+      "confident_observations": 460
+    },
+    "metrics_note": "Against derived reference alignment; ambiguous labels retained in primary scores."
+  },
+  "checks": [
+    "health",
+    "trip list",
+    "real prediction",
+    "no reference IDs in response",
+    "invalid ID rejected",
+    "missing trip rejected"
+  ]
+}

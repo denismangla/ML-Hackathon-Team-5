@@ -1,0 +1,17 @@
+TRIAL 0 0.6283026679470772 {'n_estimators': 127, 'max_depth': 14, 'min_samples_leaf': 8}
+TRIAL 1 0.631190521971395 {'n_estimators': 119, 'max_depth': 7, 'min_samples_leaf': 9}
+TRIAL 2 0.6142240608113214 {'n_estimators': 126, 'max_depth': 21, 'min_samples_leaf': 2}
+TRIAL 3 0.6286469191265368 {'n_estimators': 115, 'max_depth': 25, 'min_samples_leaf': 9}
+TRIAL 4 0.6293052760692431 {'n_estimators': 123, 'max_depth': 6, 'min_samples_leaf': 6}
+TRIAL 5 0.6292040042324878 {'n_estimators': 92, 'max_depth': 6, 'min_samples_leaf': 9}
+TRIAL 6 0.6288491599076179 {'n_estimators': 137, 'max_depth': 6, 'min_samples_leaf': 9}
+TRIAL 7 0.6253614633075674 {'n_estimators': 61, 'max_depth': 25, 'min_samples_leaf': 9}
+TRIAL 8 0.6288786534137764 {'n_estimators': 55, 'max_depth': 7, 'min_samples_leaf': 1}
+TRIAL 9 0.6289424731830887 {'n_estimators': 50, 'max_depth': 6, 'min_samples_leaf': 7}
+{
+  "model": "random_forest",
+  "trial_count": 10,
+  "untuned_cv_macro_f1": 0.6183189770028994,
+  "tuned_cv_macro_f1": 0.631190521971395,
+  "tuned_selected": true
+}

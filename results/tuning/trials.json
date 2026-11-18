@@ -1,0 +1,212 @@
+[
+  {
+    "trial": 0,
+    "method": "random_initialisation",
+    "unit_coordinates": [
+      0.7739560485559633,
+      0.4388784397520523,
+      0.8585979199113825
+    ],
+    "parameters": {
+      "n_estimators": 127,
+      "max_depth": 14,
+      "min_samples_leaf": 8
+    },
+    "fold_macro_f1": [
+      0.6315164345376382,
+      0.6693737090218135,
+      0.5840178602817799
+    ],
+    "cv_macro_f1": 0.6283026679470772,
+    "seconds": 5.805719249998219
+  },
+  {
+    "trial": 1,
+    "method": "random_initialisation",
+    "unit_coordinates": [
+      0.6973680290593639,
+      0.09417734788764953,
+      0.9756223516367559
+    ],
+    "parameters": {
+      "n_estimators": 119,
+      "max_depth": 7,
+      "min_samples_leaf": 9
+    },
+    "fold_macro_f1": [
+      0.6374263804248604,
+      0.672291084897947,
+      0.5838541005913775
+    ],
+    "cv_macro_f1": 0.631190521971395,
+    "seconds": 4.241206250037067
+  },
+  {
+    "trial": 2,
+    "method": "random_initialisation",
+    "unit_coordinates": [
+      0.761139701990353,
+      0.7860643052769538,
+      0.12811363267554587
+    ],
+    "parameters": {
+      "n_estimators": 126,
+      "max_depth": 21,
+      "min_samples_leaf": 2
+    },
+    "fold_macro_f1": [
+      0.6183223417639768,
+      0.6541155270548326,
+      0.570234313615155
+    ],
+    "cv_macro_f1": 0.6142240608113214,
+    "seconds": 6.106700915959664
+  },
+  {
+    "trial": 3,
+    "method": "GP_expected_improvement",
+    "unit_coordinates": [
+      0.6526867348692552,
+      0.9920420055280549,
+      0.9994219092241878
+    ],
+    "parameters": {
+      "n_estimators": 115,
+      "max_depth": 25,
+      "min_samples_leaf": 9
+    },
+    "fold_macro_f1": [
+      0.6331351498134216,
+      0.6708351335558665,
+      0.5819704740103224
+    ],
+    "cv_macro_f1": 0.6286469191265368,
+    "seconds": 5.313802417018451
+  },
+  {
+    "trial": 4,
+    "method": "GP_expected_improvement",
+    "unit_coordinates": [
+      0.7334664427998359,
+      0.032149087802850196,
+      0.5699829035940329
+    ],
+    "parameters": {
+      "n_estimators": 123,
+      "max_depth": 6,
+      "min_samples_leaf": 6
+    },
+    "fold_macro_f1": [
+      0.6412278638456596,
+      0.6686356321583913,
+      0.5780523322036788
+    ],
+    "cv_macro_f1": 0.6293052760692431,
+    "seconds": 4.032551709096879
+  },
+  {
+    "trial": 5,
+    "method": "GP_expected_improvement",
+    "unit_coordinates": [
+      0.4243364289230115,
+      0.010129337341458822,
+      0.915396937089632
+    ],
+    "parameters": {
+      "n_estimators": 92,
+      "max_depth": 6,
+      "min_samples_leaf": 9
+    },
+    "fold_macro_f1": [
+      0.6390802988959652,
+      0.6728582123697199,
+      0.5756735014317784
+    ],
+    "cv_macro_f1": 0.6292040042324878,
+    "seconds": 3.211807999992743
+  },
+  {
+    "trial": 6,
+    "method": "GP_expected_improvement",
+    "unit_coordinates": [
+      0.8774529147529555,
+      0.04593699710672283,
+      0.9924587097750137
+    ],
+    "parameters": {
+      "n_estimators": 137,
+      "max_depth": 6,
+      "min_samples_leaf": 9
+    },
+    "fold_macro_f1": [
+      0.6383192262509363,
+      0.6704505490271857,
+      0.5777777044447315
+    ],
+    "cv_macro_f1": 0.6288491599076179,
+    "seconds": 4.370568124926649
+  },
+  {
+    "trial": 7,
+    "method": "GP_expected_improvement",
+    "unit_coordinates": [
+      0.11548587362294893,
+      0.9730606535174523,
+      0.9223331583153058
+    ],
+    "parameters": {
+      "n_estimators": 61,
+      "max_depth": 25,
+      "min_samples_leaf": 9
+    },
+    "fold_macro_f1": [
+      0.6333206930734725,
+      0.6657562532721952,
+      0.5770074435770343
+    ],
+    "cv_macro_f1": 0.6253614633075674,
+    "seconds": 3.218850542092696
+  },
+  {
+    "trial": 8,
+    "method": "GP_expected_improvement",
+    "unit_coordinates": [
+      0.052214955082343084,
+      0.09262780874197363,
+      0.08816810692415855
+    ],
+    "parameters": {
+      "n_estimators": 55,
+      "max_depth": 7,
+      "min_samples_leaf": 1
+    },
+    "fold_macro_f1": [
+      0.6345568022992633,
+      0.6718223661996419,
+      0.580256791742424
+    ],
+    "cv_macro_f1": 0.6288786534137764,
+    "seconds": 2.4739112090319395
+  },
+  {
+    "trial": 9,
+    "method": "GP_expected_improvement",
+    "unit_coordinates": [
+      0.001273746250890495,
+      0.023279481482253006,
+      0.6903002034683744
+    ],
+    "parameters": {
+      "n_estimators": 50,
+      "max_depth": 6,
+      "min_samples_leaf": 7
+    },
+    "fold_macro_f1": [
+      0.6374522622001124,
+      0.6731545858172815,
+      0.5762205715318721
+    ],
+    "cv_macro_f1": 0.6289424731830887,
+    "seconds": 2.263744374969974
+  }
+]

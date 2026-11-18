@@ -1,0 +1,43 @@
+{
+  "PES2UG24CS126": {
+    "name": "CH SOWMYA VAISHNAVI",
+    "srn": "PES2UG24CS126",
+    "models": [
+      "knn"
+    ],
+    "role": "KNN, UI with CS173, maps and report assembly",
+    "owned_work": "KNN, RouteMap.jsx, dashboard styles, Folium maps, diagnostic plots and technical report",
+    "shared_scaffolding_note": "All modules and artifacts are bundled as shared dependencies. Commit shared scaffolding once, and only claim reviewed assigned contributions. No automatic Git author configuration."
+  },
+  "PES2UG24CS161": {
+    "name": "DIVYANSHI",
+    "srn": "PES2UG24CS161",
+    "models": [
+      "random_forest"
+    ],
+    "role": "Data preprocessing, features and Random Forest",
+    "owned_work": "Random Forest factory, data loading, reference alignment, candidates and feature extraction",
+    "shared_scaffolding_note": "All modules and artifacts are bundled as shared dependencies. Commit shared scaffolding once, and only claim reviewed assigned contributions. No automatic Git author configuration."
+  },
+  "PES2UG24CS173": {
+    "name": "GURUBELLI YEKAMBAR ESHWAR RAO",
+    "srn": "PES2UG24CS173",
+    "models": [
+      "hist_gradient_boosting"
+    ],
+    "role": "HistGradientBoosting, team comparison/tuning and UI with CS126",
+    "owned_work": "HistGradientBoosting factory, training/comparison, Bayesian optimisation and UI API client",
+    "shared_scaffolding_note": "All modules and artifacts are bundled as shared dependencies. Commit shared scaffolding once, and only claim reviewed assigned contributions. No automatic Git author configuration."
+  },
+  "PES2UG24CS151": {
+    "name": "DENIS MANGLA",
+    "srn": "PES2UG24CS151",
+    "models": [
+      "gaussian_nb",
+      "logistic_regression"
+    ],
+    "role": "Gaussian Naive Bayes, Logistic Regression, decoder and API",
+    "owned_work": "Gaussian NB and logistic factories, directed Viterbi, decoder search and FastAPI",
+    "shared_scaffolding_note": "All modules and artifacts are bundled as shared dependencies. Commit shared scaffolding once, and only claim reviewed assigned contributions. No automatic Git author configuration."
+  }
+}

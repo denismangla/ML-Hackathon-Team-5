@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "esbuild src/main.jsx --bundle --jsx=automatic --minify --outfile=app.js",
+    "test": "esbuild check-render.jsx --bundle --jsx=automatic --platform=node --loader:.css=empty --outfile=node_modules/.cache/render-test.cjs && node node_modules/.cache/render-test.cjs"
+  },
+  "dependencies": {
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.12"
+  }
+}

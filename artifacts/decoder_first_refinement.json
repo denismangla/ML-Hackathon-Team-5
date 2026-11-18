@@ -1,0 +1,7 @@
+{
+  "gap_s": 120.0,
+  "distance_limit_m": 3000.0,
+  "beta_m": 15.0,
+  "reverse_tolerance_m": 25.0,
+  "emission_weight": 1.0
+}

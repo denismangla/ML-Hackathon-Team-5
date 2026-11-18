@@ -1,2 +1,0 @@
-MOCK VITERBI DEMO (not real trip predictions)
-{'predicted_arc_ids_by_observation': [10, 21, 30], 'selected_candidate_indices': [0, 1, 0], 'route_break_observation_indices': [], 'viterbi_score': -1.430019497202498}
