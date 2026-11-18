@@ -1,0 +1,82 @@
+[
+  {
+    "trip": "00000000",
+    "status": 200,
+    "observations": 2503,
+    "bridge_arcs": 10,
+    "sections": 3,
+    "prediction_seconds": 1.730560099997092
+  },
+  {
+    "trip": "00000007",
+    "status": 200,
+    "observations": 1354,
+    "bridge_arcs": 0,
+    "sections": 1,
+    "prediction_seconds": 0.35002610000083223
+  },
+  {
+    "trip": "00000009",
+    "status": 200,
+    "observations": 1049,
+    "bridge_arcs": 113,
+    "sections": 2,
+    "prediction_seconds": 0.4797056000097655
+  },
+  {
+    "trip": "00000040",
+    "status": 200,
+    "observations": 2995,
+    "bridge_arcs": 12,
+    "sections": 1,
+    "prediction_seconds": 0.8906493999966187
+  },
+  {
+    "trip": "00000052",
+    "status": 200,
+    "observations": 262,
+    "bridge_arcs": 11,
+    "sections": 1,
+    "prediction_seconds": 0.12640960000862833
+  },
+  {
+    "trip": "00000056",
+    "status": 200,
+    "observations": 3958,
+    "bridge_arcs": 198,
+    "sections": 3,
+    "prediction_seconds": 1.8319117999926675
+  },
+  {
+    "trip": "00000065",
+    "status": 200,
+    "observations": 768,
+    "bridge_arcs": 15,
+    "sections": 4,
+    "prediction_seconds": 0.4407446999975946
+  },
+  {
+    "trip": "00000076",
+    "status": 200,
+    "observations": 1486,
+    "bridge_arcs": 86,
+    "sections": 1,
+    "prediction_seconds": 1.252625099994475
+  },
+  {
+    "trip": "00000077",
+    "status": 200,
+    "observations": 3911,
+    "bridge_arcs": 53,
+    "sections": 2,
+    "prediction_seconds": 1.1344412000034936
+  },
+  {
+    "trip": "00000091",
+    "status": 200,
+    "observations": 874,
+    "bridge_arcs": 52,
+    "sections": 1,
+    "prediction_seconds": 0.3611001999961445
+  }
+]

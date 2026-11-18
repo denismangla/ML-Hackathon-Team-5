@@ -1,0 +1,13 @@
+test_candidates_equal_bruteforce (test_pipeline.PipelineTests.test_candidates_equal_bruteforce) ... ok
+test_gap_and_fallback (test_pipeline.PipelineTests.test_gap_and_fallback) ... ok
+test_invalid_ids_rejected (test_pipeline.PipelineTests.test_invalid_ids_rejected) ... ok
+test_long_segment_search (test_pipeline.PipelineTests.test_long_segment_search) ... ok
+test_projection_metres (test_pipeline.PipelineTests.test_projection_metres) ... ok
+test_reference_file_cannot_affect_features (test_pipeline.PipelineTests.test_reference_file_cannot_affect_features) ... ok
+test_repeated_occurrence_alignment (test_pipeline.PipelineTests.test_repeated_occurrence_alignment) ... ok
+test_zero_length_segment (test_pipeline.PipelineTests.test_zero_length_segment) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.006s
+
+OK

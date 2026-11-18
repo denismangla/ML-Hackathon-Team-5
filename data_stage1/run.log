@@ -1,0 +1,125 @@
+train/00000001: 1315 GPS, 10064 candidates, coverage=0.998, 0.2s
+train/00000002: 7243 GPS, 56054 candidates, coverage=0.907, 0.7s
+train/00000003: 821 GPS, 6487 candidates, coverage=0.991, 0.1s
+train/00000004: 1064 GPS, 7305 candidates, coverage=0.986, 0.1s
+train/00000005: 1045 GPS, 4025 candidates, coverage=1.000, 0.1s
+train/00000006: 1450 GPS, 10536 candidates, coverage=0.999, 0.1s
+train/00000008: 3093 GPS, 24736 candidates, coverage=0.986, 0.3s
+train/00000010: 2711 GPS, 21442 candidates, coverage=0.986, 0.3s
+train/00000011: 2828 GPS, 17050 candidates, coverage=1.000, 0.3s
+train/00000012: 1608 GPS, 7636 candidates, coverage=1.000, 0.2s
+train/00000013: 2580 GPS, 18853 candidates, coverage=1.000, 0.4s
+train/00000014: 448 GPS, 3533 candidates, coverage=0.989, 0.0s
+train/00000016: 1305 GPS, 10315 candidates, coverage=0.962, 0.1s
+train/00000018: 379 GPS, 2984 candidates, coverage=0.995, 0.0s
+train/00000019: 2354 GPS, 16518 candidates, coverage=0.977, 0.3s
+train/00000020: 2353 GPS, 10072 candidates, coverage=0.992, 0.2s
+train/00000021: 15783 GPS, 66534 candidates, coverage=1.000, 1.5s
+train/00000022: 474 GPS, 3680 candidates, coverage=0.989, 0.1s
+train/00000024: 801 GPS, 5828 candidates, coverage=1.000, 0.1s
+train/00000025: 1179 GPS, 9129 candidates, coverage=0.998, 0.2s
+train/00000026: 361 GPS, 2882 candidates, coverage=1.000, 0.0s
+train/00000027: 694 GPS, 5000 candidates, coverage=1.000, 0.1s
+train/00000028: 3565 GPS, 22441 candidates, coverage=0.994, 0.5s
+train/00000029: 733 GPS, 5769 candidates, coverage=0.999, 0.1s
+train/00000031: 4245 GPS, 28533 candidates, coverage=0.999, 0.5s
+train/00000032: 2464 GPS, 16311 candidates, coverage=0.999, 0.4s
+train/00000033: 5844 GPS, 46619 candidates, coverage=0.338, 0.6s
+train/00000034: 3614 GPS, 25305 candidates, coverage=0.999, 0.4s
+train/00000035: 1643 GPS, 13021 candidates, coverage=0.996, 0.2s
+train/00000036: 1368 GPS, 10484 candidates, coverage=0.999, 0.1s
+train/00000037: 677 GPS, 5414 candidates, coverage=1.000, 0.1s
+train/00000038: 1287 GPS, 10260 candidates, coverage=0.999, 0.1s
+train/00000039: 363 GPS, 2690 candidates, coverage=1.000, 0.0s
+train/00000041: 1019 GPS, 7727 candidates, coverage=0.999, 0.1s
+train/00000042: 7739 GPS, 58381 candidates, coverage=1.000, 1.3s
+train/00000043: 2322 GPS, 16871 candidates, coverage=0.957, 0.3s
+train/00000044: 546 GPS, 4314 candidates, coverage=1.000, 0.1s
+train/00000045: 640 GPS, 3896 candidates, coverage=1.000, 0.1s
+train/00000046: 1401 GPS, 9080 candidates, coverage=1.000, 0.1s
+train/00000047: 1272 GPS, 10134 candidates, coverage=1.000, 0.1s
+train/00000048: 1240 GPS, 8928 candidates, coverage=1.000, 0.1s
+train/00000050: 518 GPS, 3894 candidates, coverage=0.998, 0.0s
+train/00000051: 984 GPS, 7852 candidates, coverage=1.000, 0.1s
+train/00000053: 1304 GPS, 10392 candidates, coverage=0.990, 0.2s
+train/00000054: 19313 GPS, 81390 candidates, coverage=0.137, 2.1s
+train/00000055: 2472 GPS, 16056 candidates, coverage=1.000, 0.3s
+train/00000057: 1645 GPS, 12905 candidates, coverage=0.999, 0.2s
+train/00000058: 599 GPS, 4789 candidates, coverage=0.970, 0.1s
+train/00000060: 854 GPS, 6832 candidates, coverage=0.980, 0.1s
+train/00000061: 1430 GPS, 11432 candidates, coverage=0.901, 0.2s
+train/00000062: 3378 GPS, 25954 candidates, coverage=0.999, 0.4s
+train/00000063: 2781 GPS, 20722 candidates, coverage=1.000, 0.3s
+train/00000064: 2093 GPS, 14700 candidates, coverage=0.999, 0.3s
+train/00000066: 4325 GPS, 21118 candidates, coverage=0.954, 0.4s
+train/00000068: 747 GPS, 5852 candidates, coverage=0.997, 0.1s
+train/00000069: 2067 GPS, 16164 candidates, coverage=0.996, 0.2s
+train/00000070: 2076 GPS, 13704 candidates, coverage=0.991, 0.2s
+train/00000071: 850 GPS, 6528 candidates, coverage=0.998, 0.1s
+train/00000072: 969 GPS, 7554 candidates, coverage=0.844, 0.1s
+train/00000074: 1929 GPS, 12840 candidates, coverage=0.998, 0.2s
+train/00000075: 1628 GPS, 12900 candidates, coverage=0.999, 0.1s
+train/00000078: 2909 GPS, 22784 candidates, coverage=0.999, 0.6s
+train/00000079: 689 GPS, 5512 candidates, coverage=0.994, 0.1s
+train/00000080: 2510 GPS, 18582 candidates, coverage=0.996, 0.2s
+train/00000081: 3224 GPS, 24285 candidates, coverage=0.975, 0.4s
+train/00000082: 4268 GPS, 27888 candidates, coverage=1.000, 0.4s
+train/00000083: 1507 GPS, 11984 candidates, coverage=0.997, 0.2s
+train/00000084: 16031 GPS, 98216 candidates, coverage=0.995, 1.8s
+train/00000085: 1092 GPS, 7528 candidates, coverage=0.995, 0.1s
+train/00000086: 4143 GPS, 23820 candidates, coverage=1.000, 0.6s
+train/00000088: 876 GPS, 6951 candidates, coverage=0.999, 0.1s
+train/00000089: 1228 GPS, 9824 candidates, coverage=0.976, 0.1s
+train/00000090: 536 GPS, 4254 candidates, coverage=0.994, 0.1s
+train/00000092: 7892 GPS, 58464 candidates, coverage=0.999, 1.6s
+train/00000093: 1211 GPS, 9678 candidates, coverage=0.951, 0.2s
+train/00000095: 1551 GPS, 12320 candidates, coverage=0.998, 0.2s
+train/00000096: 3271 GPS, 19515 candidates, coverage=0.999, 0.4s
+train/00000097: 1740 GPS, 12696 candidates, coverage=0.999, 0.2s
+train/00000098: 5584 GPS, 36842 candidates, coverage=0.998, 0.8s
+train/00000099: 2322 GPS, 18414 candidates, coverage=0.998, 0.3s
+student_test/00000000: 2503 GPS, 11966 candidates, coverage=0.998, 0.2s
+student_test/00000007: 1354 GPS, 6999 candidates, coverage=1.000, 0.1s
+student_test/00000009: 1049 GPS, 8328 candidates, coverage=0.981, 0.1s
+student_test/00000040: 2995 GPS, 16350 candidates, coverage=1.000, 0.3s
+student_test/00000052: 262 GPS, 2034 candidates, coverage=1.000, 0.0s
+student_test/00000056: 3958 GPS, 29982 candidates, coverage=0.995, 0.6s
+student_test/00000065: 768 GPS, 6101 candidates, coverage=0.999, 0.1s
+student_test/00000076: 1486 GPS, 11858 candidates, coverage=0.993, 0.2s
+student_test/00000077: 3911 GPS, 30532 candidates, coverage=0.998, 0.4s
+student_test/00000091: 874 GPS, 6823 candidates, coverage=1.000, 0.1s
+
+Fontconfig error: No writable cache directories
+	/opt/homebrew/var/cache/fontconfig
+	/Users/yekambareshwar/.cache/fontconfig
+	/Users/yekambareshwar/.fontconfig
+
+Fontconfig error: No writable cache directories
+	/opt/homebrew/var/cache/fontconfig
+	/Users/yekambareshwar/.cache/fontconfig
+	/Users/yekambareshwar/.fontconfig
+
+Fontconfig error: No writable cache directories
+	/opt/homebrew/var/cache/fontconfig
+	/Users/yekambareshwar/.cache/fontconfig
+	/Users/yekambareshwar/.fontconfig
+
+Fontconfig error: No writable cache directories
+	/opt/homebrew/var/cache/fontconfig
+	/Users/yekambareshwar/.cache/fontconfig
+	/Users/yekambareshwar/.fontconfig
+Matplotlib is building the font cache; this may take a moment.
+{
+  "stage": "1",
+  "trips": 90,
+  "files": 360,
+  "observations": 227577,
+  "candidate_rows": 1500949,
+  "candidate_miss_rate_derived_reference": 0.09919719479560764,
+  "alignment_usable": 207023,
+  "alignment_ambiguous": 82815,
+  "seconds": 27.296,
+  "python": "3.14.6",
+  "numpy": "2.5.1",
+  "scipy": "1.18.0"
+}

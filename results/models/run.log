@@ -1,0 +1,25 @@
+START logistic_regression
+logistic_regression FOLD 0 F1 0.6125232905202955 seconds 0.09
+logistic_regression FOLD 1 F1 0.6681074125514804 seconds 0.06
+logistic_regression FOLD 2 F1 0.5626322679636698 seconds 0.07
+DONE {"model": "logistic_regression", "owner": "DENIS MANGLA | PES2UG24CS151", "cv_macro_f1": 0.6144209903451485, "student_top1": 0.7975991649269311, "student_macro_f1": 0.623692353736324, "student_log_loss": 0.7868071409633713, "student_direct_continuity": 0.893101467439553, "student_inference_seconds": 0.01484416623134166, "fit_seconds": 0.011838542064651847, "training_rows": 20000}
+START gaussian_nb
+gaussian_nb FOLD 0 F1 0.5962695142516117 seconds 0.07
+gaussian_nb FOLD 1 F1 0.655994150603758 seconds 0.07
+gaussian_nb FOLD 2 F1 0.5722646211378183 seconds 0.09
+DONE {"model": "gaussian_nb", "owner": "DENIS MANGLA | PES2UG24CS151", "cv_macro_f1": 0.6081760953310625, "student_top1": 0.7491649269311065, "student_macro_f1": 0.6016670144918201, "student_log_loss": 0.9311357043456953, "student_direct_continuity": 0.8852681602172437, "student_inference_seconds": 0.021955042029730976, "fit_seconds": 0.0027236660243943334, "training_rows": 20000}
+START hist_gradient_boosting
+hist_gradient_boosting FOLD 0 F1 0.6327605954624256 seconds 0.55
+hist_gradient_boosting FOLD 1 F1 0.6466429857410143 seconds 0.56
+hist_gradient_boosting FOLD 2 F1 0.5726918996343583 seconds 0.64
+DONE {"model": "hist_gradient_boosting", "owner": "GURUBELLI YEKAMBAR ESHWAR RAO | PES2UG24CS173", "cv_macro_f1": 0.6173651602792661, "student_top1": 0.7900313152400835, "student_macro_f1": 0.5999064190869565, "student_log_loss": 0.7003809912062713, "student_direct_continuity": 0.8845892735913102, "student_inference_seconds": 0.14505612500943244, "fit_seconds": 0.11716004100162536, "training_rows": 20000}
+START random_forest
+random_forest FOLD 0 F1 0.6209053355317725 seconds 1.25
+random_forest FOLD 1 F1 0.6598176159263722 seconds 1.24
+random_forest FOLD 2 F1 0.5742339795505536 seconds 1.4
+DONE {"model": "random_forest", "owner": "DIVYANSHI | PES2UG24CS161", "cv_macro_f1": 0.6183189770028994, "student_top1": 0.7931106471816284, "student_macro_f1": 0.6197044840704125, "student_log_loss": 0.7561371711411621, "student_direct_continuity": 0.8877748185283827, "student_inference_seconds": 0.2621276240097359, "fit_seconds": 0.4887207500869408, "training_rows": 20000}
+START knn
+knn FOLD 0 F1 0.5349847059017228 seconds 9.97
+knn FOLD 1 F1 0.5950441765548499 seconds 12.96
+knn FOLD 2 F1 0.5030475090989979 seconds 15.39
+DONE {"model": "knn", "owner": "CH SOWMYA VAISHNAVI | PES2UG24CS126", "cv_macro_f1": 0.5443587971851901, "student_top1": 0.7422755741127348, "student_macro_f1": 0.54658461628754, "student_log_loss": 2.6354038523148087, "student_direct_continuity": 0.8487649485612826, "student_inference_seconds": 4.2538274601101875, "fit_seconds": 0.005739415995776653, "training_rows": 20000}
