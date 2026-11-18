@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# raw data and large generated tables: share with the team via Drive/zip, not git
+data/Student folder/
+data/processed/
