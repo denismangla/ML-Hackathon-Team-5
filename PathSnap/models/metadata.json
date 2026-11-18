@@ -1,0 +1,38 @@
+{
+  "selected_model": "random_forest",
+  "feature_columns": [
+    "distance_to_segment",
+    "projection_fraction",
+    "heading_difference",
+    "heading_valid",
+    "gps_speed",
+    "time_delta",
+    "gps_gap_flag",
+    "segment_length",
+    "endpoint_distance",
+    "from_in_degree",
+    "from_out_degree",
+    "to_in_degree",
+    "to_out_degree"
+  ],
+  "top_k": 8,
+  "candidate_radius_m": 100.0,
+  "label_search_radius_m": 150.0,
+  "training_trips_requested": [
+    "00000026",
+    "00000039",
+    "00000018",
+    "00000014",
+    "00000022"
+  ],
+  "training_trips_used": [
+    "00000014",
+    "00000022",
+    "00000026",
+    "00000039"
+  ],
+  "validation_trips": [
+    "00000018"
+  ],
+  "scope": "prototype; only selected training trips were processed"
+}
