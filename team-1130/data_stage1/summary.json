@@ -1,0 +1,14 @@
+{
+  "stage": "1",
+  "trips": 90,
+  "files": 360,
+  "observations": 227577,
+  "candidate_rows": 1500949,
+  "candidate_miss_rate_derived_reference": 0.09919719479560764,
+  "alignment_usable": 207023,
+  "alignment_ambiguous": 82815,
+  "seconds": 27.296,
+  "python": "3.14.6",
+  "numpy": "2.5.1",
+  "scipy": "1.18.0"
+}

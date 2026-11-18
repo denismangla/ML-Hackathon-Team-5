@@ -1,0 +1,51 @@
+{
+  "version": "1.0",
+  "features": [
+    "distance_m",
+    "projection_fraction",
+    "distance_start_m",
+    "distance_end_m",
+    "segment_length_m",
+    "heading_difference_rad",
+    "dt_s",
+    "displacement_m",
+    "speed_mps",
+    "gap_flag",
+    "heading_valid",
+    "candidate_fallback",
+    "from_degree",
+    "to_degree"
+  ],
+  "feature_dtype": "float32",
+  "feature_units": [
+    "m",
+    "fraction",
+    "m",
+    "m",
+    "m",
+    "radian",
+    "s",
+    "m",
+    "m/s",
+    "bool",
+    "bool",
+    "bool",
+    "count",
+    "count"
+  ],
+  "identifiers": [
+    "trip_id from filename",
+    "observation_index",
+    "candidate_arc_id"
+  ],
+  "candidate_policy": {
+    "k": 8,
+    "radius_m": 100,
+    "gap_s": 120,
+    "fallback": "top K nearest segments only when none lies within radius"
+  },
+  "projection": "spherical azimuthal equidistant centred at median trip longitude/latitude; straight segments in projected space",
+  "alignment": "offline monotone occurrence DP; gap resets; 100m usable threshold; alternative distinct arc within residual+5m flagged ambiguous",
+  "label_warning": "Derived alignment, not independent per-GPS ground truth. Ambiguous labels require review. Training masks exclude >100m residual but do not automatically remove ambiguity.",
+  "preprocessing": "No learned scalers fitted. Fit within training folds in Stage 2."
+}

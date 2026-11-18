@@ -1,0 +1,17 @@
+{
+  "criterion": "Mean of three training-trip-group CV Macro F1 scores; per-trip F1 averaged within each fold",
+  "selected": {
+    "model": "random_forest",
+    "owner": "DIVYANSHI | PES2UG24CS161",
+    "cv_macro_f1": 0.6183189770028994,
+    "student_top1": 0.7931106471816284,
+    "student_macro_f1": 0.6197044840704125,
+    "student_log_loss": 0.7561371711411621,
+    "student_direct_continuity": 0.8877748185283827,
+    "student_inference_seconds": 0.2621276240097359,
+    "fit_seconds": 0.4887207500869408,
+    "training_rows": 20000
+  },
+  "model_count": 5,
+  "warning": "All metrics use derived reference alignment; training capped at 20000 candidate rows consistently across models. Student testing does not choose the model."
+}
